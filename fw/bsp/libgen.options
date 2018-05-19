@@ -1,0 +1,3 @@
+PROCESSOR=cpu
+REPOSITORIES=
+HWSPEC=/home/lane/workspace/lasershow/system.xml

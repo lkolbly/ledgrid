@@ -1,0 +1,17 @@
+# Output products list for <cpu>
+cpu/mb_bootloop_le.elf
+cpu/microblaze_mcs_setup.tcl
+cpu/system_template.tcl
+cpu.asy
+cpu.bmm
+cpu.gise
+cpu.ngc
+cpu.v
+cpu.veo
+cpu.xco
+cpu.xise
+cpu_flist.txt
+cpu_readme.txt
+cpu_sdk.xml
+mb_bootloop_le.elf
+microblaze_mcs_setup.tcl

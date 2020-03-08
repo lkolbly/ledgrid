@@ -1,0 +1,465 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 16
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L SamacSys_Parts:LPC804M101JDH24J IC1
+U 1 1 5DFAE6F5
+P 3400 2400
+F 0 "IC1" H 5050 2665 50  0000 C CNN
+F 1 "LPC804M101JDH24J" H 5050 2574 50  0000 C CNN
+F 2 "SamacSys_Parts:SOP65P640X110-24N" H 6550 2500 50  0001 L CNN
+F 3 "https://ms.componentsearchengine.com/Datasheets/1/LPC804M101JDH24J.pdf" H 6550 2400 50  0001 L CNN
+F 4 "ARM Microcontrollers - MCU Cortex-M0 32KB 4KB 2 I2c, SPI, 21 GPIO" H 6550 2300 50  0001 L CNN "Description"
+F 5 "1.1" H 6550 2200 50  0001 L CNN "Height"
+F 6 "" H 6550 2100 50  0001 L CNN "Mouser Part Number"
+F 7 "" H 6550 2000 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Nexperia" H 6550 1900 50  0001 L CNN "Manufacturer_Name"
+F 9 "LPC804M101JDH24J" H 6550 1800 50  0001 L CNN "Manufacturer_Part_Number"
+	1    3400 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5DFC30F1
+P 7100 3700
+F 0 "#PWR0105" H 7100 3450 50  0001 C CNN
+F 1 "GND" H 7105 3527 50  0000 C CNN
+F 2 "" H 7100 3700 50  0001 C CNN
+F 3 "" H 7100 3700 50  0001 C CNN
+	1    7100 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7350 1900 7350 3000
+$Sheet
+S 8650 4400 850  600 
+U 5E0E840E
+F0 "LED Array" 50
+F1 "led_array.sch" 50
+F2 "a[0..7]" I L 8650 4500 50 
+F3 "b[0..7]" I L 8650 4600 50 
+F4 "c[0..7]" I L 8650 4700 50 
+F5 "COL[0..7]" I L 8650 4800 50 
+$EndSheet
+$Comp
+L power:+3.3V #PWR0103
+U 1 1 5E13E44D
+P 7350 1900
+F 0 "#PWR0103" H 7350 1750 50  0001 C CNN
+F 1 "+3.3V" H 7365 2073 50  0000 C CNN
+F 2 "" H 7350 1900 50  0001 C CNN
+F 3 "" H 7350 1900 50  0001 C CNN
+	1    7350 1900
+	1    0    0    -1  
+$EndComp
+Text GLabel 3400 2400 0    50   Input ~ 0
+SINA
+Text GLabel 3400 2500 0    50   Input ~ 0
+SCK
+Text GLabel 3400 2600 0    50   Input ~ 0
+SLAT
+$Comp
+L Connector:TestPoint TP2
+U 1 1 5E0F4B44
+P 2350 2800
+F 0 "TP2" V 2545 2872 50  0000 C CNN
+F 1 "ISP_EN" V 2454 2872 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 2550 2800 50  0001 C CNN
+F 3 "~" H 2550 2800 50  0001 C CNN
+	1    2350 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP1
+U 1 1 5E0F587C
+P 1800 3000
+F 0 "TP1" V 1995 3072 50  0000 C CNN
+F 1 "ISP TX" V 1904 3072 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 2000 3000 50  0001 C CNN
+F 3 "~" H 2000 3000 50  0001 C CNN
+	1    1800 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP5
+U 1 1 5E0F759A
+P 6950 2200
+F 0 "TP5" H 7008 2318 50  0000 L CNN
+F 1 "ISP RX" H 7008 2227 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 7150 2200 50  0001 C CNN
+F 3 "~" H 7150 2200 50  0001 C CNN
+	1    6950 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6700 2600 6950 2600
+Wire Wire Line
+	6950 2600 6950 2200
+Text GLabel 3400 3300 0    50   Input ~ 0
+SCL
+Text GLabel 3400 3400 0    50   Input ~ 0
+SDA
+$Sheet
+S 8650 3200 1050 750 
+U 5E16A78A
+F0 "Shift Registers" 50
+F1 "shiftregisters.sch" 50
+F2 "a[0..7]" I L 8650 3300 50 
+F3 "b[0..7]" I L 8650 3450 50 
+F4 "c[0..7]" I L 8650 3600 50 
+$EndSheet
+Wire Bus Line
+	8650 3600 8100 3600
+Wire Bus Line
+	8100 3600 8100 4700
+Wire Bus Line
+	8100 4700 8650 4700
+Wire Bus Line
+	8650 4600 8250 4600
+Wire Bus Line
+	8250 4600 8250 3450
+Wire Bus Line
+	8250 3450 8650 3450
+Wire Bus Line
+	8650 3300 8400 3300
+Wire Bus Line
+	8400 3300 8400 4500
+Wire Bus Line
+	8400 4500 8650 4500
+$Sheet
+S 8400 1300 1100 800 
+U 5E1801F0
+F0 "Power Supply" 50
+F1 "powersupply.sch" 50
+$EndSheet
+Wire Bus Line
+	8650 4800 7700 4800
+Entry Wire Line
+	7600 2400 7700 2500
+Entry Wire Line
+	7600 2500 7700 2600
+Entry Wire Line
+	7600 2800 7700 2900
+Entry Wire Line
+	7600 3100 7700 3200
+Entry Wire Line
+	7600 3200 7700 3300
+Entry Wire Line
+	7600 3300 7700 3400
+Entry Wire Line
+	7600 3400 7700 3500
+Entry Wire Line
+	7600 3500 7700 3600
+Wire Wire Line
+	6700 3500 7600 3500
+$Comp
+L Connector:TestPoint TP6
+U 1 1 5E1A14E4
+P 2050 2900
+F 0 "TP6" V 2245 2972 50  0000 C CNN
+F 1 "RESET" V 2154 2972 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 2250 2900 50  0001 C CNN
+F 3 "~" H 2250 2900 50  0001 C CNN
+	1    2050 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2050 2900 3400 2900
+Wire Wire Line
+	1800 3000 3400 3000
+Text GLabel 3400 2700 0    50   Input ~ 0
+SINB
+$Sheet
+S 1150 6750 600  350 
+U 5E1B8DB7
+F0 "Board Connector" 50
+F1 "boardconnector.sch" 50
+$EndSheet
+$Sheet
+S 2400 6750 600  350 
+U 5E1BC768
+F0 "sheet5E1BC766" 50
+F1 "boardconnector.sch" 50
+$EndSheet
+Text Label 6750 3500 0    50   ~ 0
+COL0
+Text Label 6750 3400 0    50   ~ 0
+COL1
+Text Label 6750 3300 0    50   ~ 0
+COL2
+Text Label 6750 3200 0    50   ~ 0
+COL3
+Text Label 6750 3100 0    50   ~ 0
+COL4
+Text Label 6750 2800 0    50   ~ 0
+COL5
+Text Label 6750 2500 0    50   ~ 0
+COL6
+Text Label 6750 2400 0    50   ~ 0
+COL7
+Wire Wire Line
+	7100 2900 7100 3700
+Wire Wire Line
+	6700 2900 7100 2900
+Wire Wire Line
+	6700 2400 7600 2400
+Wire Wire Line
+	6700 2800 7600 2800
+Wire Wire Line
+	6700 2500 7600 2500
+Wire Wire Line
+	6700 3100 7600 3100
+Wire Wire Line
+	6700 3200 7600 3200
+Wire Wire Line
+	6700 3300 7600 3300
+Wire Wire Line
+	6700 3400 7600 3400
+$Comp
+L Device:C C5
+U 1 1 5E1CCA45
+P 6200 4000
+AR Path="/5E1CCA45" Ref="C5"  Part="1" 
+AR Path="/5E1801F0/5E1CCA45" Ref="C?"  Part="1" 
+F 0 "C5" H 6315 4046 50  0000 L CNN
+F 1 "4.7uF" H 6315 3955 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 6238 3850 50  0001 C CNN
+F 3 "~" H 6200 4000 50  0001 C CNN
+	1    6200 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0135
+U 1 1 5E1CD212
+P 6500 4050
+F 0 "#PWR0135" H 6500 3800 50  0001 C CNN
+F 1 "GND" H 6505 3877 50  0000 C CNN
+F 2 "" H 6500 4050 50  0001 C CNN
+F 3 "" H 6500 4050 50  0001 C CNN
+	1    6500 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0136
+U 1 1 5E1CD76A
+P 5900 3900
+F 0 "#PWR0136" H 5900 3750 50  0001 C CNN
+F 1 "+3.3V" H 5915 4073 50  0000 C CNN
+F 2 "" H 5900 3900 50  0001 C CNN
+F 3 "" H 5900 3900 50  0001 C CNN
+	1    5900 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5900 3900 5900 4000
+Wire Wire Line
+	5900 4000 6050 4000
+Wire Wire Line
+	6350 4000 6500 4000
+Wire Wire Line
+	6500 4000 6500 4050
+$Comp
+L power:GND #PWR0145
+U 1 1 5E1807CC
+P 4400 4850
+F 0 "#PWR0145" H 4400 4600 50  0001 C CNN
+F 1 "GND" H 4405 4677 50  0000 C CNN
+F 2 "" H 4400 4850 50  0001 C CNN
+F 3 "" H 4400 4850 50  0001 C CNN
+	1    4400 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0146
+U 1 1 5E1814E4
+P 3900 4750
+F 0 "#PWR0146" H 3900 4600 50  0001 C CNN
+F 1 "+3.3V" H 3915 4923 50  0000 C CNN
+F 2 "" H 3900 4750 50  0001 C CNN
+F 3 "" H 3900 4750 50  0001 C CNN
+	1    3900 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP7
+U 1 1 5E182556
+P 3900 4750
+F 0 "TP7" V 4095 4822 50  0000 C CNN
+F 1 "3.3V" V 4004 4822 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 4100 4750 50  0001 C CNN
+F 3 "~" H 4100 4750 50  0001 C CNN
+	1    3900 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:TestPoint TP8
+U 1 1 5E182F3B
+P 4400 4850
+F 0 "TP8" V 4595 4922 50  0000 C CNN
+F 1 "GND" V 4504 4922 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 4600 4850 50  0001 C CNN
+F 3 "~" H 4600 4850 50  0001 C CNN
+	1    4400 4850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2350 2800 2800 2800
+$Comp
+L Jumper:SolderJumper_2_Open JP11
+U 1 1 5E188D5C
+P 3150 4100
+AR Path="/5E188D5C" Ref="JP11"  Part="1" 
+AR Path="/5E1B8DB7/5E188D5C" Ref="JP?"  Part="1" 
+AR Path="/5E1BB69E/5E188D5C" Ref="JP?"  Part="1" 
+AR Path="/5E1BBF11/5E188D5C" Ref="JP?"  Part="1" 
+AR Path="/5E1BC768/5E188D5C" Ref="JP?"  Part="1" 
+F 0 "JP11" H 3150 4305 50  0000 C CNN
+F 1 "I2C0" H 3150 4214 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 3150 4100 50  0001 C CNN
+F 3 "~" H 3150 4100 50  0001 C CNN
+	1    3150 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP4
+U 1 1 5E102E45
+P 1700 3200
+F 0 "TP4" H 1642 3226 50  0000 R CNN
+F 1 "SWDIO" H 1642 3317 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 1900 3200 50  0001 C CNN
+F 3 "~" H 1900 3200 50  0001 C CNN
+	1    1700 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP3
+U 1 1 5E100DBB
+P 1050 3100
+F 0 "TP3" H 992 3126 50  0000 R CNN
+F 1 "SWCLK" H 992 3217 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 1250 3100 50  0001 C CNN
+F 3 "~" H 1250 3100 50  0001 C CNN
+	1    1050 3100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3400 3500 3150 3500
+$Comp
+L power:GND #PWR0133
+U 1 1 5E18FE61
+P 3150 4250
+F 0 "#PWR0133" H 3150 4000 50  0001 C CNN
+F 1 "GND" H 3155 4077 50  0000 C CNN
+F 2 "" H 3150 4250 50  0001 C CNN
+F 3 "" H 3150 4250 50  0001 C CNN
+	1    3150 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:SolderJumper_2_Open JP10
+U 1 1 5E1918E1
+P 2250 4100
+AR Path="/5E1918E1" Ref="JP10"  Part="1" 
+AR Path="/5E1B8DB7/5E1918E1" Ref="JP?"  Part="1" 
+AR Path="/5E1BB69E/5E1918E1" Ref="JP?"  Part="1" 
+AR Path="/5E1BBF11/5E1918E1" Ref="JP?"  Part="1" 
+AR Path="/5E1BC768/5E1918E1" Ref="JP?"  Part="1" 
+F 0 "JP10" H 2250 4305 50  0000 C CNN
+F 1 "I2C1" H 2250 4214 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 2250 4100 50  0001 C CNN
+F 3 "~" H 2250 4100 50  0001 C CNN
+	1    2250 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0147
+U 1 1 5E1918F9
+P 2250 4250
+F 0 "#PWR0147" H 2250 4000 50  0001 C CNN
+F 1 "GND" H 2255 4077 50  0000 C CNN
+F 2 "" H 2250 4250 50  0001 C CNN
+F 3 "" H 2250 4250 50  0001 C CNN
+	1    2250 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:SolderJumper_2_Open JP9
+U 1 1 5E193AC4
+P 1350 4100
+AR Path="/5E193AC4" Ref="JP9"  Part="1" 
+AR Path="/5E1B8DB7/5E193AC4" Ref="JP?"  Part="1" 
+AR Path="/5E1BB69E/5E193AC4" Ref="JP?"  Part="1" 
+AR Path="/5E1BBF11/5E193AC4" Ref="JP?"  Part="1" 
+AR Path="/5E1BC768/5E193AC4" Ref="JP?"  Part="1" 
+F 0 "JP9" H 1350 4305 50  0000 C CNN
+F 1 "I2C2" H 1350 4214 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 1350 4100 50  0001 C CNN
+F 3 "~" H 1350 4100 50  0001 C CNN
+	1    1350 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0149
+U 1 1 5E193ADC
+P 1350 4250
+F 0 "#PWR0149" H 1350 4000 50  0001 C CNN
+F 1 "GND" H 1355 4077 50  0000 C CNN
+F 2 "" H 1350 4250 50  0001 C CNN
+F 3 "" H 1350 4250 50  0001 C CNN
+	1    1350 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1050 3100 1350 3100
+Wire Wire Line
+	1700 3200 2250 3200
+Connection ~ 2250 3200
+Wire Wire Line
+	2250 3200 3400 3200
+Connection ~ 1350 3100
+Wire Wire Line
+	1350 3100 3400 3100
+Wire Wire Line
+	6700 3000 7350 3000
+Text GLabel 2800 2650 1    50   Input ~ 0
+SYNC
+Wire Wire Line
+	2800 2650 2800 2800
+Connection ~ 2800 2800
+Wire Wire Line
+	2800 2800 3400 2800
+$Sheet
+S 1150 6000 600  350 
+U 5E1F6C0D
+F0 "Board Connector Female" 50
+F1 "boardconnector_female.sch" 50
+$EndSheet
+$Sheet
+S 2400 6000 600  350 
+U 5E1FB088
+F0 "sheet5E1FB086" 50
+F1 "boardconnector_female.sch" 50
+$EndSheet
+Text Label 7850 4800 0    50   ~ 0
+COL[0..7]
+Wire Wire Line
+	1350 3100 1350 3950
+Wire Wire Line
+	2250 3200 2250 3950
+Wire Wire Line
+	3150 3500 3150 3950
+Wire Bus Line
+	7700 2500 7700 4800
+$EndSCHEMATC

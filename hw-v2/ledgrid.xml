@@ -1,0 +1,2455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>E:\ledgrid\ledgrid.sch</source>
+    <date>1/14/2020 8:49:21 PM</date>
+    <tool>Eeschema (5.1.5)-3</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ledgrid.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/LED Array/" tstamps="/5E0E840E/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led_array.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led_column.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led_column.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led_column.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led_column.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led_column.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led_column.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led_column.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led_column.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Shift Registers/" tstamps="/5E16A78A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>shiftregisters.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Power Supply/" tstamps="/5E1801F0/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>powersupply.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Board Connector/" tstamps="/5E1B8DB7/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>boardconnector.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/sheet5E1BC766/" tstamps="/5E1BC768/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>boardconnector.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/Board Connector Female/" tstamps="/5E1F6C0D/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>boardconnector_female.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/sheet5E1FB086/" tstamps="/5E1FB088/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>boardconnector_female.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC1">
+      <value>LPC804M101JDH24J</value>
+      <footprint>SamacSys_Parts:SOP65P640X110-24N</footprint>
+      <datasheet>https://ms.componentsearchengine.com/Datasheets/1/LPC804M101JDH24J.pdf</datasheet>
+      <fields>
+        <field name="Description">ARM Microcontrollers - MCU Cortex-M0 32KB 4KB 2 I2c, SPI, 21 GPIO</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">LPC804M101JDH24J</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="LPC804M101JDH24J" description="ARM Microcontrollers - MCU Cortex-M0 32KB 4KB 2 I2c, SPI, 21 GPIO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFAE6F5</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>ISP_EN</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0F4B44</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>ISP TX</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0F587C</tstamp>
+    </comp>
+    <comp ref="TP5">
+      <value>ISP RX</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0F759A</tstamp>
+    </comp>
+    <comp ref="TP6">
+      <value>RESET</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E1A14E4</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E1CCA45</tstamp>
+    </comp>
+    <comp ref="TP7">
+      <value>3.3V</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E182556</tstamp>
+    </comp>
+    <comp ref="TP8">
+      <value>GND</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E182F3B</tstamp>
+    </comp>
+    <comp ref="JP11">
+      <value>I2C0</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E188D5C</tstamp>
+    </comp>
+    <comp ref="TP4">
+      <value>SWDIO</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E102E45</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value>SWCLK</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E100DBB</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E18CF10</tstamp>
+    </comp>
+    <comp ref="JP10">
+      <value>I2C1</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E1918E1</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E1918E7</tstamp>
+    </comp>
+    <comp ref="JP9">
+      <value>I2C2</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E193AC4</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E193ACA</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>MMSS8550-L-TP</value>
+      <footprint>SamacSys_Parts:SOT96P237X122-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</datasheet>
+      <fields>
+        <field name="Description">PNP Silicon Plastic-Encapsulate Transistor</field>
+        <field name="Height">1.22</field>
+        <field name="Manufacturer_Name">Micro Commercial Components (MCC)</field>
+        <field name="Manufacturer_Part_Number">MMSS8550-L-TP</field>
+        <field name="Mouser Part Number">833-MMSS8550-L-TP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MMSS8550-L-TP" description="PNP Silicon Plastic-Encapsulate Transistor"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5E0D0519</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5E0C07CE</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5E0A64C1</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>BC850</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5E097908</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5DFEB613</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5DFD7BA6</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5DFD6FD4</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5DFD6006</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5DFD4E35</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5DFD43CB</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5DFD360A</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/LED Column/" tstamps="/5E0E840E/5E0EBAB4/"/>
+      <tstamp>5DFD1144</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>MMSS8550-L-TP</value>
+      <footprint>SamacSys_Parts:SOT96P237X122-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</datasheet>
+      <fields>
+        <field name="Description">PNP Silicon Plastic-Encapsulate Transistor</field>
+        <field name="Height">1.22</field>
+        <field name="Manufacturer_Name">Micro Commercial Components (MCC)</field>
+        <field name="Manufacturer_Part_Number">MMSS8550-L-TP</field>
+        <field name="Mouser Part Number">833-MMSS8550-L-TP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MMSS8550-L-TP" description="PNP Silicon Plastic-Encapsulate Transistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5E0D0519</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5E0C07CE</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5E0A64C1</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>BC850</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5E097908</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5DFEB613</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5DFD7BA6</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5DFD6FD4</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5DFD6006</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5DFD4E35</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5DFD43CB</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5DFD360A</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC0DC/" tstamps="/5E0E840E/5E0EC0E2/"/>
+      <tstamp>5DFD1144</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>MMSS8550-L-TP</value>
+      <footprint>SamacSys_Parts:SOT96P237X122-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</datasheet>
+      <fields>
+        <field name="Description">PNP Silicon Plastic-Encapsulate Transistor</field>
+        <field name="Height">1.22</field>
+        <field name="Manufacturer_Name">Micro Commercial Components (MCC)</field>
+        <field name="Manufacturer_Part_Number">MMSS8550-L-TP</field>
+        <field name="Mouser Part Number">833-MMSS8550-L-TP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MMSS8550-L-TP" description="PNP Silicon Plastic-Encapsulate Transistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5E0D0519</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5E0C07CE</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5E0A64C1</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>BC850</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5E097908</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5DFEB613</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5DFD7BA6</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5DFD6FD4</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5DFD6006</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5DFD4E35</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5DFD43CB</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5DFD360A</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC197/" tstamps="/5E0E840E/5E0EC19D/"/>
+      <tstamp>5DFD1144</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>MMSS8550-L-TP</value>
+      <footprint>SamacSys_Parts:SOT96P237X122-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</datasheet>
+      <fields>
+        <field name="Description">PNP Silicon Plastic-Encapsulate Transistor</field>
+        <field name="Height">1.22</field>
+        <field name="Manufacturer_Name">Micro Commercial Components (MCC)</field>
+        <field name="Manufacturer_Part_Number">MMSS8550-L-TP</field>
+        <field name="Mouser Part Number">833-MMSS8550-L-TP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MMSS8550-L-TP" description="PNP Silicon Plastic-Encapsulate Transistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5E0D0519</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5E0C07CE</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5E0A64C1</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>BC850</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5E097908</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5DFEB613</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5DFD7BA6</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5DFD6FD4</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5DFD6006</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5DFD4E35</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5DFD43CB</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5DFD360A</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC293/" tstamps="/5E0E840E/5E0EC299/"/>
+      <tstamp>5DFD1144</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>MMSS8550-L-TP</value>
+      <footprint>SamacSys_Parts:SOT96P237X122-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</datasheet>
+      <fields>
+        <field name="Description">PNP Silicon Plastic-Encapsulate Transistor</field>
+        <field name="Height">1.22</field>
+        <field name="Manufacturer_Name">Micro Commercial Components (MCC)</field>
+        <field name="Manufacturer_Part_Number">MMSS8550-L-TP</field>
+        <field name="Mouser Part Number">833-MMSS8550-L-TP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MMSS8550-L-TP" description="PNP Silicon Plastic-Encapsulate Transistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5E0D0519</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5E0C07CE</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5E0A64C1</tstamp>
+    </comp>
+    <comp ref="Q10">
+      <value>BC850</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5E097908</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5DFEB613</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5DFD7BA6</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5DFD6FD4</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5DFD6006</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5DFD4E35</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5DFD43CB</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5DFD360A</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC326/" tstamps="/5E0E840E/5E0EC32C/"/>
+      <tstamp>5DFD1144</tstamp>
+    </comp>
+    <comp ref="Q11">
+      <value>MMSS8550-L-TP</value>
+      <footprint>SamacSys_Parts:SOT96P237X122-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</datasheet>
+      <fields>
+        <field name="Description">PNP Silicon Plastic-Encapsulate Transistor</field>
+        <field name="Height">1.22</field>
+        <field name="Manufacturer_Name">Micro Commercial Components (MCC)</field>
+        <field name="Manufacturer_Part_Number">MMSS8550-L-TP</field>
+        <field name="Mouser Part Number">833-MMSS8550-L-TP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MMSS8550-L-TP" description="PNP Silicon Plastic-Encapsulate Transistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5E0D0519</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5E0C07CE</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5E0A64C1</tstamp>
+    </comp>
+    <comp ref="Q12">
+      <value>BC850</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5E097908</tstamp>
+    </comp>
+    <comp ref="D48">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5DFEB613</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5DFD7BA6</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5DFD6FD4</tstamp>
+    </comp>
+    <comp ref="D45">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5DFD6006</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5DFD4E35</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5DFD43CB</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5DFD360A</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC4B3/" tstamps="/5E0E840E/5E0EC4B9/"/>
+      <tstamp>5DFD1144</tstamp>
+    </comp>
+    <comp ref="Q13">
+      <value>MMSS8550-L-TP</value>
+      <footprint>SamacSys_Parts:SOT96P237X122-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</datasheet>
+      <fields>
+        <field name="Description">PNP Silicon Plastic-Encapsulate Transistor</field>
+        <field name="Height">1.22</field>
+        <field name="Manufacturer_Name">Micro Commercial Components (MCC)</field>
+        <field name="Manufacturer_Part_Number">MMSS8550-L-TP</field>
+        <field name="Mouser Part Number">833-MMSS8550-L-TP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MMSS8550-L-TP" description="PNP Silicon Plastic-Encapsulate Transistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5E0D0519</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5E0C07CE</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5E0A64C1</tstamp>
+    </comp>
+    <comp ref="Q14">
+      <value>BC850</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5E097908</tstamp>
+    </comp>
+    <comp ref="D56">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5DFEB613</tstamp>
+    </comp>
+    <comp ref="D55">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5DFD7BA6</tstamp>
+    </comp>
+    <comp ref="D54">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5DFD6FD4</tstamp>
+    </comp>
+    <comp ref="D53">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5DFD6006</tstamp>
+    </comp>
+    <comp ref="D52">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5DFD4E35</tstamp>
+    </comp>
+    <comp ref="D51">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5DFD43CB</tstamp>
+    </comp>
+    <comp ref="D50">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5DFD360A</tstamp>
+    </comp>
+    <comp ref="D49">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC555/" tstamps="/5E0E840E/5E0EC55B/"/>
+      <tstamp>5DFD1144</tstamp>
+    </comp>
+    <comp ref="Q15">
+      <value>MMSS8550-L-TP</value>
+      <footprint>SamacSys_Parts:SOT96P237X122-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</datasheet>
+      <fields>
+        <field name="Description">PNP Silicon Plastic-Encapsulate Transistor</field>
+        <field name="Height">1.22</field>
+        <field name="Manufacturer_Name">Micro Commercial Components (MCC)</field>
+        <field name="Manufacturer_Part_Number">MMSS8550-L-TP</field>
+        <field name="Mouser Part Number">833-MMSS8550-L-TP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MMSS8550-L-TP" description="PNP Silicon Plastic-Encapsulate Transistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5E0D0519</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5E0C07CE</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5E0A64C1</tstamp>
+    </comp>
+    <comp ref="Q16">
+      <value>BC850</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5E097908</tstamp>
+    </comp>
+    <comp ref="D64">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5DFEB613</tstamp>
+    </comp>
+    <comp ref="D63">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5DFD7BA6</tstamp>
+    </comp>
+    <comp ref="D62">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5DFD6FD4</tstamp>
+    </comp>
+    <comp ref="D61">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5DFD6006</tstamp>
+    </comp>
+    <comp ref="D60">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5DFD4E35</tstamp>
+    </comp>
+    <comp ref="D59">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5DFD43CB</tstamp>
+    </comp>
+    <comp ref="D58">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5DFD360A</tstamp>
+    </comp>
+    <comp ref="D57">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_RGB_5050-6</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <sheetpath names="/LED Array/sheet5E0EC665/" tstamps="/5E0E840E/5E0EC66B/"/>
+      <tstamp>5DFD1144</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>TC62D748CFNAG(CEBH</value>
+      <footprint>SamacSys_Parts:SOP64P600X175-24N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/TC62D748CFNAG(CEBH.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Lighting Drivers 16-output constant current LED Drvr 17V</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Toshiba</field>
+        <field name="Manufacturer_Part_Number">TC62D748CFNAG(CEBH</field>
+        <field name="Mouser Part Number">757-TC62D748CFNAGCEB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=757-TC62D748CFNAGCEB</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TC62D748CFNAG(CEBH" description="LED Lighting Drivers 16-output constant current LED Drvr 17V"/>
+      <sheetpath names="/Shift Registers/" tstamps="/5E16A78A/"/>
+      <tstamp>5E16DC57</tstamp>
+    </comp>
+    <comp ref="IC3">
+      <value>TC62D748CFNAG(CEBH</value>
+      <footprint>SamacSys_Parts:SOP64P600X175-24N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/TC62D748CFNAG(CEBH.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Lighting Drivers 16-output constant current LED Drvr 17V</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Toshiba</field>
+        <field name="Manufacturer_Part_Number">TC62D748CFNAG(CEBH</field>
+        <field name="Mouser Part Number">757-TC62D748CFNAGCEB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=757-TC62D748CFNAGCEB</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TC62D748CFNAG(CEBH" description="LED Lighting Drivers 16-output constant current LED Drvr 17V"/>
+      <sheetpath names="/Shift Registers/" tstamps="/5E16A78A/"/>
+      <tstamp>5E16DCAC</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Shift Registers/" tstamps="/5E16A78A/"/>
+      <tstamp>5E16DCF7</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Shift Registers/" tstamps="/5E16A78A/"/>
+      <tstamp>5E16DD11</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>TC33X-2-103E</value>
+      <footprint>SamacSys_Parts:TC33X-2_1</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/TC33X-2-103E.pdf</datasheet>
+      <fields>
+        <field name="Description">Cermet 3mm SMT trimmer,0.1W 10k Bourns TC33 Series SMD Cermet Trimmer Resistor with Solder Pad Terminations, 10k?? ??25% 1/10W ??250ppm/??C Top Adjust</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">TC33X-2-103E</field>
+        <field name="Mouser Part Number">652-TC33X-2-103E</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-TC33X-2-103E</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TC33X-2-103E" description="Cermet 3mm SMT trimmer,0.1W 10k Bourns TC33 Series SMD Cermet Trimmer Resistor with Solder Pad Terminations, 10k?? ??25% 1/10W ??250ppm/??C Top Adjust"/>
+      <sheetpath names="/Shift Registers/" tstamps="/5E16A78A/"/>
+      <tstamp>5E1A3370</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>TC33X-2-103E</value>
+      <footprint>SamacSys_Parts:TC33X-2_1</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/TC33X-2-103E.pdf</datasheet>
+      <fields>
+        <field name="Description">Cermet 3mm SMT trimmer,0.1W 10k Bourns TC33 Series SMD Cermet Trimmer Resistor with Solder Pad Terminations, 10k?? ??25% 1/10W ??250ppm/??C Top Adjust</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">TC33X-2-103E</field>
+        <field name="Mouser Part Number">652-TC33X-2-103E</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-TC33X-2-103E</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TC33X-2-103E" description="Cermet 3mm SMT trimmer,0.1W 10k Bourns TC33 Series SMD Cermet Trimmer Resistor with Solder Pad Terminations, 10k?? ??25% 1/10W ??250ppm/??C Top Adjust"/>
+      <sheetpath names="/Shift Registers/" tstamps="/5E16A78A/"/>
+      <tstamp>5E1AACD8</tstamp>
+    </comp>
+    <comp ref="IC4">
+      <value>NJM2866F33-TE1</value>
+      <footprint>SamacSys_Parts:SOT95P280X130-5N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/NJM2866F33-TE1.pdf</datasheet>
+      <fields>
+        <field name="Description">LDO Voltage Regulators Low Dropout Volt Regulator</field>
+        <field name="Height">1.3</field>
+        <field name="Manufacturer_Name">NJR</field>
+        <field name="Manufacturer_Part_Number">NJM2866F33-TE1</field>
+        <field name="Mouser Part Number">513-NJM2866F33-TE1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=513-NJM2866F33-TE1</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="NJM2866F33-TE1" description="LDO Voltage Regulators Low Dropout Volt Regulator"/>
+      <sheetpath names="/Power Supply/" tstamps="/5E1801F0/"/>
+      <tstamp>5E182854</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Supply/" tstamps="/5E1801F0/"/>
+      <tstamp>5E182860</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Supply/" tstamps="/5E1801F0/"/>
+      <tstamp>5E182866</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>PWR_I2C</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise" description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Board Connector/" tstamps="/5E1B8DB7/"/>
+      <tstamp>5E1BA77A</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>PWR_BULK</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise" description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Board Connector/" tstamps="/5E1B8DB7/"/>
+      <tstamp>5E19A3F7</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>PWR_I2C</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise" description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/sheet5E1BC766/" tstamps="/5E1BC768/"/>
+      <tstamp>5E1BA77A</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>PWR_BULK</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise" description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/sheet5E1BC766/" tstamps="/5E1BC768/"/>
+      <tstamp>5E19A3F7</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>PWR_I2C</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise" description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Board Connector Female/" tstamps="/5E1F6C0D/"/>
+      <tstamp>5E1F8C6A</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>PWR_BULK</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise" description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Board Connector Female/" tstamps="/5E1F6C0D/"/>
+      <tstamp>5E1F8C84</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>PWR_I2C</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise" description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/sheet5E1FB086/" tstamps="/5E1FB088/"/>
+      <tstamp>5E1F8C6A</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>PWR_BULK</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise" description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/sheet5E1FB086/" tstamps="/5E1FB088/"/>
+      <tstamp>5E1F8C84</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise">
+      <description>Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x02_Counter_Clockwise</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_RGB">
+      <description>RGB LED, 6 pin package</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_RGB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RK" type="passive"/>
+        <pin num="2" name="GK" type="passive"/>
+        <pin num="3" name="BK" type="passive"/>
+        <pin num="4" name="BA" type="passive"/>
+        <pin num="5" name="GA" type="passive"/>
+        <pin num="6" name="RA" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="LPC804M101JDH24J">
+      <description>ARM Microcontrollers - MCU Cortex-M0 32KB 4KB 2 I2c, SPI, 21 GPIO</description>
+      <docs>https://ms.componentsearchengine.com/Datasheets/1/LPC804M101JDH24J.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LPC804M101JDH24J</field>
+        <field name="Footprint">SOP65P640X110-24N</field>
+        <field name="Datasheet">https://ms.componentsearchengine.com/Datasheets/1/LPC804M101JDH24J.pdf</field>
+        <field name="Description">ARM Microcontrollers - MCU Cortex-M0 32KB 4KB 2 I2c, SPI, 21 GPIO</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">LPC804M101JDH24J</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PIO0_18" type="BiDi"/>
+        <pin num="2" name="PIO0_16/ACMP_I4/ADC_3" type="BiDi"/>
+        <pin num="3" name="PIO0_17/ADC_9" type="BiDi"/>
+        <pin num="4" name="PIO0_13/ADC_10" type="BiDi"/>
+        <pin num="5" name="PIO0_12" type="BiDi"/>
+        <pin num="6" name="RESET/PIO0_5" type="BiDi"/>
+        <pin num="7" name="PIO0_4/ADC_11/TRSTN" type="BiDi"/>
+        <pin num="8" name="SWCLK/PIO0_3/TCK" type="BiDi"/>
+        <pin num="9" name="SWDIO/PIO0_2/TMS" type="BiDi"/>
+        <pin num="10" name="PIO0_11/ADC_6/WKTCLKIN" type="BiDi"/>
+        <pin num="11" name="PIO0_10/ADC_7" type="BiDi"/>
+        <pin num="12" name="PIO0_21/ACMP_I5" type="BiDi"/>
+        <pin num="13" name="PIO0_20" type="BiDi"/>
+        <pin num="14" name="PIO0_15/ADC_8" type="BiDi"/>
+        <pin num="15" name="PIO0_1/ADC_0/ACMP_I2/TDI/CLKIN" type="BiDi"/>
+        <pin num="16" name="PIO0_9/ADC_4" type="BiDi"/>
+        <pin num="17" name="PIO0_8/ADC_5" type="BiDi"/>
+        <pin num="18" name="VDD" type="power_in"/>
+        <pin num="19" name="VSS" type="power_in"/>
+        <pin num="20" name="PIO0_7/ADC_1/ACMPVREF" type="BiDi"/>
+        <pin num="21" name="VREFP" type="input"/>
+        <pin num="22" name="PIO0_0/ACMP_I1/TDO" type="BiDi"/>
+        <pin num="23" name="PIO0_14/ACMP_I3/ADC_2" type="BiDi"/>
+        <pin num="24" name="PIO0_19/DACOUT" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="MMSS8550-L-TP">
+      <description>PNP Silicon Plastic-Encapsulate Transistor</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MMSS8550-L-TP</field>
+        <field name="Footprint">SOT96P237X122-3N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf</field>
+        <field name="Description">PNP Silicon Plastic-Encapsulate Transistor</field>
+        <field name="Height">1.22</field>
+        <field name="Mouser Part Number">833-MMSS8550-L-TP</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP</field>
+        <field name="Manufacturer_Name">Micro Commercial Components (MCC)</field>
+        <field name="Manufacturer_Part_Number">MMSS8550-L-TP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="unspc"/>
+        <pin num="2" name="~" type="unspc"/>
+        <pin num="3" name="~" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="NJM2866F33-TE1">
+      <description>LDO Voltage Regulators Low Dropout Volt Regulator</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/NJM2866F33-TE1.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">NJM2866F33-TE1</field>
+        <field name="Footprint">SOT95P280X130-5N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/NJM2866F33-TE1.pdf</field>
+        <field name="Description">LDO Voltage Regulators Low Dropout Volt Regulator</field>
+        <field name="Height">1.3</field>
+        <field name="Mouser Part Number">513-NJM2866F33-TE1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=513-NJM2866F33-TE1</field>
+        <field name="Manufacturer_Name">NJR</field>
+        <field name="Manufacturer_Part_Number">NJM2866F33-TE1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="unspc"/>
+        <pin num="2" name="GND" type="unspc"/>
+        <pin num="3" name="CONTROL" type="unspc"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="VOUT" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="TC33X-2-103E">
+      <description>Cermet 3mm SMT trimmer,0.1W 10k Bourns TC33 Series SMD Cermet Trimmer Resistor with Solder Pad Terminations, 10k?? ??25% 1/10W ??250ppm/??C Top Adjust</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/TC33X-2-103E.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">TC33X-2-103E</field>
+        <field name="Footprint">TC33X-2_1</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/TC33X-2-103E.pdf</field>
+        <field name="Description">Cermet 3mm SMT trimmer,0.1W 10k Bourns TC33 Series SMD Cermet Trimmer Resistor with Solder Pad Terminations, 10k?? ??25% 1/10W ??250ppm/??C Top Adjust</field>
+        <field name="Mouser Part Number">652-TC33X-2-103E</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-TC33X-2-103E</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">TC33X-2-103E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CCW" type="passive"/>
+        <pin num="2" name="WIPER" type="passive"/>
+        <pin num="3" name="CW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="TC62D748CFNAG(CEBH">
+      <description>LED Lighting Drivers 16-output constant current LED Drvr 17V</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/TC62D748CFNAG(CEBH.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TC62D748CFNAG(CEBH</field>
+        <field name="Footprint">SOP64P600X175-24N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/TC62D748CFNAG(CEBH.pdf</field>
+        <field name="Description">LED Lighting Drivers 16-output constant current LED Drvr 17V</field>
+        <field name="Height">1.75</field>
+        <field name="Mouser Part Number">757-TC62D748CFNAGCEB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=757-TC62D748CFNAGCEB</field>
+        <field name="Manufacturer_Name">Toshiba</field>
+        <field name="Manufacturer_Part_Number">TC62D748CFNAG(CEBH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="unspc"/>
+        <pin num="2" name="SIN" type="unspc"/>
+        <pin num="3" name="SCK" type="unspc"/>
+        <pin num="4" name="~SLAT" type="unspc"/>
+        <pin num="5" name="~OUT0" type="unspc"/>
+        <pin num="6" name="~OUT1" type="unspc"/>
+        <pin num="7" name="~OUT2" type="unspc"/>
+        <pin num="8" name="~OUT3" type="unspc"/>
+        <pin num="9" name="~OUT4" type="unspc"/>
+        <pin num="10" name="~OUT5" type="unspc"/>
+        <pin num="11" name="~OUT6" type="unspc"/>
+        <pin num="12" name="~OUT7" type="unspc"/>
+        <pin num="13" name="~OUT8" type="unspc"/>
+        <pin num="14" name="~OUT9" type="unspc"/>
+        <pin num="15" name="~OUT10" type="unspc"/>
+        <pin num="16" name="~OUT11" type="unspc"/>
+        <pin num="17" name="~OUT12" type="unspc"/>
+        <pin num="18" name="~OUT13" type="unspc"/>
+        <pin num="19" name="~OUT14" type="unspc"/>
+        <pin num="20" name="~OUT15" type="unspc"/>
+        <pin num="21" name="~OE" type="unspc"/>
+        <pin num="22" name="SOUT" type="unspc"/>
+        <pin num="23" name="REXT" type="unspc"/>
+        <pin num="24" name="VDD" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC817">
+      <aliases>
+        <alias>BC818</alias>
+        <alias>BC846</alias>
+        <alias>BC847</alias>
+        <alias>BC848</alias>
+        <alias>BC849</alias>
+        <alias>BC850</alias>
+        <alias>MMBT3904</alias>
+        <alias>MMBT5550L</alias>
+        <alias>MMBT5551L</alias>
+      </aliases>
+      <description>0.8A Ic, 45V Vce, NPN Transistor, SOT-23</description>
+      <docs>http://www.fairchildsemi.com/ds/BC/BC817.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC817</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>E:\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>E:\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>E:\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>E:\KiCad\share\kicad\library/Jumper.lib</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/Lane Kolbly/Documents/SemacSys_PCB_Library/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>E:\KiCad\share\kicad\library/Transistor_BJT.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1"/>
+      <node ref="IC1" pin="18"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="IC3" pin="24"/>
+      <node ref="IC4" pin="5"/>
+      <node ref="IC2" pin="24"/>
+      <node ref="R21" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="R20" pin="2"/>
+      <node ref="TP7" pin="1"/>
+      <node ref="R19" pin="2"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="J8" pin="3"/>
+      <node ref="J4" pin="3"/>
+      <node ref="J1" pin="3"/>
+      <node ref="J8" pin="4"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="J3" pin="1"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J2" pin="1"/>
+      <node ref="TP8" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="IC4" pin="2"/>
+      <node ref="JP10" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="IC3" pin="21"/>
+      <node ref="JP11" pin="1"/>
+      <node ref="J5" pin="4"/>
+      <node ref="J5" pin="3"/>
+      <node ref="Q8" pin="2"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="Q12" pin="2"/>
+      <node ref="Q16" pin="2"/>
+      <node ref="IC2" pin="21"/>
+      <node ref="IC2" pin="1"/>
+      <node ref="IC3" pin="1"/>
+      <node ref="JP9" pin="1"/>
+      <node ref="R18" pin="2"/>
+      <node ref="IC1" pin="19"/>
+      <node ref="Q14" pin="2"/>
+      <node ref="Q10" pin="2"/>
+      <node ref="Q4" pin="2"/>
+      <node ref="J7" pin="2"/>
+      <node ref="R17" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="Q6" pin="2"/>
+      <node ref="J7" pin="1"/>
+      <node ref="J6" pin="1"/>
+    </net>
+    <net code="3" name="SYNC">
+      <node ref="J1" pin="4"/>
+      <node ref="J4" pin="4"/>
+      <node ref="J2" pin="2"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="J6" pin="2"/>
+      <node ref="TP2" pin="1"/>
+    </net>
+    <net code="4" name="Net-(IC1-Pad12)">
+      <node ref="JP11" pin="2"/>
+      <node ref="R21" pin="1"/>
+      <node ref="IC1" pin="12"/>
+    </net>
+    <net code="5" name="Net-(IC1-Pad6)">
+      <node ref="TP6" pin="1"/>
+      <node ref="IC1" pin="6"/>
+    </net>
+    <net code="6" name="Net-(IC1-Pad7)">
+      <node ref="TP1" pin="1"/>
+      <node ref="IC1" pin="7"/>
+    </net>
+    <net code="7" name="/COL0">
+      <node ref="IC1" pin="13"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="8" name="/COL1">
+      <node ref="R4" pin="2"/>
+      <node ref="IC1" pin="14"/>
+    </net>
+    <net code="9" name="/COL2">
+      <node ref="IC1" pin="15"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="10" name="/COL3">
+      <node ref="IC1" pin="16"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="11" name="/COL4">
+      <node ref="R10" pin="2"/>
+      <node ref="IC1" pin="17"/>
+    </net>
+    <net code="12" name="/COL5">
+      <node ref="R12" pin="2"/>
+      <node ref="IC1" pin="20"/>
+    </net>
+    <net code="13" name="/COL6">
+      <node ref="R14" pin="2"/>
+      <node ref="IC1" pin="23"/>
+    </net>
+    <net code="14" name="/COL7">
+      <node ref="IC1" pin="24"/>
+      <node ref="R16" pin="2"/>
+    </net>
+    <net code="15" name="SINA">
+      <node ref="IC3" pin="2"/>
+      <node ref="IC1" pin="1"/>
+    </net>
+    <net code="16" name="Net-(IC1-Pad9)">
+      <node ref="JP10" pin="2"/>
+      <node ref="R20" pin="1"/>
+      <node ref="TP4" pin="1"/>
+      <node ref="IC1" pin="9"/>
+    </net>
+    <net code="17" name="SCK">
+      <node ref="IC1" pin="2"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="IC3" pin="3"/>
+    </net>
+    <net code="18" name="Net-(IC1-Pad8)">
+      <node ref="IC1" pin="8"/>
+      <node ref="TP3" pin="1"/>
+      <node ref="R19" pin="1"/>
+      <node ref="JP9" pin="2"/>
+    </net>
+    <net code="19" name="SLAT">
+      <node ref="IC3" pin="4"/>
+      <node ref="IC2" pin="4"/>
+      <node ref="IC1" pin="3"/>
+    </net>
+    <net code="20" name="SINB">
+      <node ref="IC2" pin="2"/>
+      <node ref="IC1" pin="4"/>
+    </net>
+    <net code="21" name="SCL">
+      <node ref="J2" pin="4"/>
+      <node ref="IC1" pin="10"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J4" pin="2"/>
+      <node ref="J6" pin="4"/>
+    </net>
+    <net code="22" name="SDA">
+      <node ref="J4" pin="1"/>
+      <node ref="J2" pin="3"/>
+      <node ref="IC1" pin="11"/>
+      <node ref="J6" pin="3"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="23" name="Net-(IC1-Pad21)">
+      <node ref="IC1" pin="21"/>
+    </net>
+    <net code="24" name="Net-(IC1-Pad22)">
+      <node ref="IC1" pin="22"/>
+      <node ref="TP5" pin="1"/>
+    </net>
+    <net code="46" name="Net-(IC3-Pad22)">
+      <node ref="IC3" pin="22"/>
+    </net>
+    <net code="47" name="Net-(IC3-Pad20)">
+      <node ref="IC3" pin="20"/>
+    </net>
+    <net code="48" name="Net-(IC3-Pad19)">
+      <node ref="IC3" pin="19"/>
+    </net>
+    <net code="49" name="Net-(IC3-Pad18)">
+      <node ref="IC3" pin="18"/>
+    </net>
+    <net code="50" name="Net-(IC3-Pad17)">
+      <node ref="IC3" pin="17"/>
+    </net>
+    <net code="51" name="Net-(IC2-Pad23)">
+      <node ref="IC2" pin="23"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="52" name="Net-(R17-Pad3)">
+      <node ref="R17" pin="3"/>
+    </net>
+    <net code="53" name="Net-(IC3-Pad23)">
+      <node ref="IC3" pin="23"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="54" name="Net-(R18-Pad3)">
+      <node ref="R18" pin="3"/>
+    </net>
+    <net code="55" name="Net-(IC2-Pad22)">
+      <node ref="IC2" pin="22"/>
+    </net>
+    <net code="56" name="Net-(IC2-Pad20)">
+      <node ref="IC2" pin="20"/>
+    </net>
+    <net code="57" name="Net-(IC2-Pad19)">
+      <node ref="IC2" pin="19"/>
+    </net>
+    <net code="58" name="Net-(IC2-Pad18)">
+      <node ref="IC2" pin="18"/>
+    </net>
+    <net code="59" name="Net-(IC2-Pad17)">
+      <node ref="IC2" pin="17"/>
+    </net>
+    <net code="66" name="+12V">
+      <node ref="C3" pin="1"/>
+      <node ref="Q9" pin="2"/>
+      <node ref="Q13" pin="2"/>
+      <node ref="J5" pin="2"/>
+      <node ref="J5" pin="1"/>
+      <node ref="J3" pin="3"/>
+      <node ref="J3" pin="4"/>
+      <node ref="J8" pin="2"/>
+      <node ref="J8" pin="1"/>
+      <node ref="IC4" pin="3"/>
+      <node ref="J7" pin="4"/>
+      <node ref="J7" pin="3"/>
+      <node ref="IC4" pin="1"/>
+      <node ref="Q5" pin="2"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="Q15" pin="2"/>
+      <node ref="Q7" pin="2"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="Q11" pin="2"/>
+    </net>
+    <net code="67" name="Net-(IC4-Pad4)">
+      <node ref="IC4" pin="4"/>
+    </net>
+    <net code="68" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="69" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="70" name="Net-(D1-Pad4)">
+      <node ref="D8" pin="6"/>
+      <node ref="D5" pin="6"/>
+      <node ref="D4" pin="4"/>
+      <node ref="D4" pin="5"/>
+      <node ref="D4" pin="6"/>
+      <node ref="D8" pin="4"/>
+      <node ref="D8" pin="5"/>
+      <node ref="D6" pin="4"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="D5" pin="5"/>
+      <node ref="D5" pin="4"/>
+      <node ref="D6" pin="5"/>
+      <node ref="D6" pin="6"/>
+      <node ref="D3" pin="4"/>
+      <node ref="D3" pin="5"/>
+      <node ref="D3" pin="6"/>
+      <node ref="D2" pin="4"/>
+      <node ref="D2" pin="5"/>
+      <node ref="D2" pin="6"/>
+      <node ref="D7" pin="5"/>
+      <node ref="D7" pin="4"/>
+      <node ref="D7" pin="6"/>
+      <node ref="D1" pin="6"/>
+      <node ref="D1" pin="5"/>
+      <node ref="D1" pin="4"/>
+    </net>
+    <net code="71" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="72" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="73" name="Net-(Q4-Pad3)">
+      <node ref="R3" pin="2"/>
+      <node ref="Q4" pin="3"/>
+    </net>
+    <net code="74" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="75" name="Net-(D10-Pad4)">
+      <node ref="D13" pin="6"/>
+      <node ref="D13" pin="5"/>
+      <node ref="D13" pin="4"/>
+      <node ref="D9" pin="5"/>
+      <node ref="D9" pin="6"/>
+      <node ref="D10" pin="4"/>
+      <node ref="D10" pin="5"/>
+      <node ref="D10" pin="6"/>
+      <node ref="D9" pin="4"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="D15" pin="5"/>
+      <node ref="D15" pin="6"/>
+      <node ref="D15" pin="4"/>
+      <node ref="D16" pin="6"/>
+      <node ref="D16" pin="5"/>
+      <node ref="D16" pin="4"/>
+      <node ref="D14" pin="5"/>
+      <node ref="D14" pin="4"/>
+      <node ref="D11" pin="6"/>
+      <node ref="D11" pin="5"/>
+      <node ref="D11" pin="4"/>
+      <node ref="D14" pin="6"/>
+      <node ref="D12" pin="6"/>
+      <node ref="D12" pin="5"/>
+      <node ref="D12" pin="4"/>
+    </net>
+    <net code="76" name="Net-(Q6-Pad3)">
+      <node ref="R5" pin="2"/>
+      <node ref="Q6" pin="3"/>
+    </net>
+    <net code="77" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="78" name="Net-(D17-Pad4)">
+      <node ref="D20" pin="5"/>
+      <node ref="D20" pin="4"/>
+      <node ref="D19" pin="4"/>
+      <node ref="D17" pin="4"/>
+      <node ref="D19" pin="6"/>
+      <node ref="D23" pin="6"/>
+      <node ref="D24" pin="6"/>
+      <node ref="D24" pin="5"/>
+      <node ref="D24" pin="4"/>
+      <node ref="Q5" pin="3"/>
+      <node ref="D20" pin="6"/>
+      <node ref="D19" pin="5"/>
+      <node ref="D21" pin="4"/>
+      <node ref="D18" pin="4"/>
+      <node ref="D23" pin="4"/>
+      <node ref="D23" pin="5"/>
+      <node ref="D18" pin="6"/>
+      <node ref="D18" pin="5"/>
+      <node ref="D21" pin="6"/>
+      <node ref="D17" pin="5"/>
+      <node ref="D17" pin="6"/>
+      <node ref="D21" pin="5"/>
+      <node ref="D22" pin="4"/>
+      <node ref="D22" pin="5"/>
+      <node ref="D22" pin="6"/>
+    </net>
+    <net code="79" name="Net-(Q6-Pad1)">
+      <node ref="Q6" pin="1"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="80" name="Net-(Q7-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="Q7" pin="1"/>
+    </net>
+    <net code="81" name="Net-(Q8-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="Q8" pin="1"/>
+    </net>
+    <net code="82" name="Net-(Q8-Pad3)">
+      <node ref="R7" pin="2"/>
+      <node ref="Q8" pin="3"/>
+    </net>
+    <net code="83" name="Net-(D25-Pad4)">
+      <node ref="D29" pin="4"/>
+      <node ref="D30" pin="6"/>
+      <node ref="D29" pin="6"/>
+      <node ref="D29" pin="5"/>
+      <node ref="D31" pin="6"/>
+      <node ref="D30" pin="4"/>
+      <node ref="D25" pin="5"/>
+      <node ref="D25" pin="4"/>
+      <node ref="D25" pin="6"/>
+      <node ref="D31" pin="5"/>
+      <node ref="D31" pin="4"/>
+      <node ref="D30" pin="5"/>
+      <node ref="D32" pin="4"/>
+      <node ref="D26" pin="6"/>
+      <node ref="D26" pin="5"/>
+      <node ref="D26" pin="4"/>
+      <node ref="D27" pin="5"/>
+      <node ref="D27" pin="4"/>
+      <node ref="D27" pin="6"/>
+      <node ref="Q7" pin="3"/>
+      <node ref="D32" pin="5"/>
+      <node ref="D28" pin="4"/>
+      <node ref="D28" pin="5"/>
+      <node ref="D28" pin="6"/>
+      <node ref="D32" pin="6"/>
+    </net>
+    <net code="84" name="Net-(Q10-Pad3)">
+      <node ref="R9" pin="2"/>
+      <node ref="Q10" pin="3"/>
+    </net>
+    <net code="85" name="Net-(Q9-Pad1)">
+      <node ref="Q9" pin="1"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="86" name="Net-(D33-Pad4)">
+      <node ref="D36" pin="6"/>
+      <node ref="D36" pin="4"/>
+      <node ref="D36" pin="5"/>
+      <node ref="Q9" pin="3"/>
+      <node ref="D40" pin="5"/>
+      <node ref="D40" pin="4"/>
+      <node ref="D40" pin="6"/>
+      <node ref="D38" pin="5"/>
+      <node ref="D37" pin="4"/>
+      <node ref="D38" pin="6"/>
+      <node ref="D38" pin="4"/>
+      <node ref="D37" pin="5"/>
+      <node ref="D37" pin="6"/>
+      <node ref="D35" pin="6"/>
+      <node ref="D34" pin="6"/>
+      <node ref="D35" pin="4"/>
+      <node ref="D34" pin="5"/>
+      <node ref="D35" pin="5"/>
+      <node ref="D34" pin="4"/>
+      <node ref="D39" pin="4"/>
+      <node ref="D39" pin="5"/>
+      <node ref="D39" pin="6"/>
+      <node ref="D33" pin="4"/>
+      <node ref="D33" pin="5"/>
+      <node ref="D33" pin="6"/>
+    </net>
+    <net code="87" name="Net-(Q10-Pad1)">
+      <node ref="Q10" pin="1"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="88" name="Net-(Q12-Pad1)">
+      <node ref="Q12" pin="1"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="89" name="Net-(Q11-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="Q11" pin="1"/>
+    </net>
+    <net code="90" name="Net-(Q12-Pad3)">
+      <node ref="Q12" pin="3"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="91" name="Net-(D41-Pad4)">
+      <node ref="D43" pin="5"/>
+      <node ref="D42" pin="4"/>
+      <node ref="D42" pin="5"/>
+      <node ref="D42" pin="6"/>
+      <node ref="D44" pin="5"/>
+      <node ref="D44" pin="6"/>
+      <node ref="D47" pin="5"/>
+      <node ref="D47" pin="6"/>
+      <node ref="D44" pin="4"/>
+      <node ref="D43" pin="4"/>
+      <node ref="D43" pin="6"/>
+      <node ref="D48" pin="5"/>
+      <node ref="D48" pin="4"/>
+      <node ref="D47" pin="4"/>
+      <node ref="D46" pin="6"/>
+      <node ref="D48" pin="6"/>
+      <node ref="D41" pin="4"/>
+      <node ref="D41" pin="5"/>
+      <node ref="D46" pin="5"/>
+      <node ref="D46" pin="4"/>
+      <node ref="Q11" pin="3"/>
+      <node ref="D45" pin="6"/>
+      <node ref="D41" pin="6"/>
+      <node ref="D45" pin="4"/>
+      <node ref="D45" pin="5"/>
+    </net>
+    <net code="92" name="Net-(Q14-Pad3)">
+      <node ref="Q14" pin="3"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="93" name="Net-(Q14-Pad1)">
+      <node ref="Q14" pin="1"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="94" name="Net-(Q13-Pad1)">
+      <node ref="Q13" pin="1"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="95" name="Net-(D49-Pad4)">
+      <node ref="D56" pin="4"/>
+      <node ref="D52" pin="6"/>
+      <node ref="D52" pin="5"/>
+      <node ref="D52" pin="4"/>
+      <node ref="D50" pin="6"/>
+      <node ref="D49" pin="6"/>
+      <node ref="D49" pin="5"/>
+      <node ref="D49" pin="4"/>
+      <node ref="Q13" pin="3"/>
+      <node ref="D54" pin="6"/>
+      <node ref="D54" pin="5"/>
+      <node ref="D51" pin="5"/>
+      <node ref="D50" pin="4"/>
+      <node ref="D50" pin="5"/>
+      <node ref="D56" pin="6"/>
+      <node ref="D51" pin="6"/>
+      <node ref="D51" pin="4"/>
+      <node ref="D54" pin="4"/>
+      <node ref="D53" pin="6"/>
+      <node ref="D53" pin="4"/>
+      <node ref="D53" pin="5"/>
+      <node ref="D56" pin="5"/>
+      <node ref="D55" pin="6"/>
+      <node ref="D55" pin="5"/>
+      <node ref="D55" pin="4"/>
+    </net>
+    <net code="96" name="Net-(Q16-Pad3)">
+      <node ref="R15" pin="2"/>
+      <node ref="Q16" pin="3"/>
+    </net>
+    <net code="97" name="Net-(Q15-Pad1)">
+      <node ref="R15" pin="1"/>
+      <node ref="Q15" pin="1"/>
+    </net>
+    <net code="98" name="Net-(Q16-Pad1)">
+      <node ref="R16" pin="1"/>
+      <node ref="Q16" pin="1"/>
+    </net>
+    <net code="99" name="Net-(D57-Pad4)">
+      <node ref="D59" pin="6"/>
+      <node ref="D59" pin="5"/>
+      <node ref="D59" pin="4"/>
+      <node ref="D62" pin="4"/>
+      <node ref="D60" pin="6"/>
+      <node ref="D60" pin="5"/>
+      <node ref="D60" pin="4"/>
+      <node ref="D63" pin="6"/>
+      <node ref="D63" pin="5"/>
+      <node ref="D63" pin="4"/>
+      <node ref="D62" pin="6"/>
+      <node ref="D62" pin="5"/>
+      <node ref="Q15" pin="3"/>
+      <node ref="D57" pin="4"/>
+      <node ref="D58" pin="6"/>
+      <node ref="D58" pin="5"/>
+      <node ref="D58" pin="4"/>
+      <node ref="D57" pin="5"/>
+      <node ref="D61" pin="6"/>
+      <node ref="D61" pin="5"/>
+      <node ref="D61" pin="4"/>
+      <node ref="D64" pin="5"/>
+      <node ref="D64" pin="4"/>
+      <node ref="D64" pin="6"/>
+      <node ref="D57" pin="6"/>
+    </net>
+    <net code="100" name="/Shift Registers/b5">
+      <node ref="D62" pin="2"/>
+      <node ref="IC3" pin="10"/>
+      <node ref="D46" pin="2"/>
+      <node ref="D22" pin="2"/>
+      <node ref="D54" pin="2"/>
+      <node ref="D14" pin="2"/>
+      <node ref="D30" pin="2"/>
+      <node ref="D38" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="101" name="/Shift Registers/a0">
+      <node ref="D41" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="IC2" pin="16"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D25" pin="1"/>
+      <node ref="D49" pin="1"/>
+      <node ref="D57" pin="1"/>
+      <node ref="D9" pin="1"/>
+    </net>
+    <net code="102" name="/Shift Registers/a1">
+      <node ref="D2" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D50" pin="1"/>
+      <node ref="IC2" pin="15"/>
+      <node ref="D34" pin="1"/>
+      <node ref="D58" pin="1"/>
+      <node ref="D42" pin="1"/>
+    </net>
+    <net code="103" name="/Shift Registers/a2">
+      <node ref="IC2" pin="5"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D59" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D51" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D43" pin="1"/>
+      <node ref="D11" pin="1"/>
+    </net>
+    <net code="104" name="/Shift Registers/a3">
+      <node ref="D44" pin="1"/>
+      <node ref="D52" pin="1"/>
+      <node ref="IC2" pin="6"/>
+      <node ref="D60" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D12" pin="1"/>
+    </net>
+    <net code="105" name="/Shift Registers/a4">
+      <node ref="D13" pin="1"/>
+      <node ref="D53" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D61" pin="1"/>
+      <node ref="IC3" pin="16"/>
+      <node ref="D37" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D29" pin="1"/>
+    </net>
+    <net code="106" name="/Shift Registers/a5">
+      <node ref="D30" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D38" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D54" pin="1"/>
+      <node ref="IC3" pin="5"/>
+      <node ref="D62" pin="1"/>
+    </net>
+    <net code="107" name="/Shift Registers/a6">
+      <node ref="IC3" pin="14"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D55" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D39" pin="1"/>
+      <node ref="D63" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D23" pin="1"/>
+    </net>
+    <net code="108" name="/Shift Registers/a7">
+      <node ref="D40" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D48" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="IC3" pin="9"/>
+      <node ref="D64" pin="1"/>
+      <node ref="D32" pin="1"/>
+      <node ref="D56" pin="1"/>
+    </net>
+    <net code="109" name="/Shift Registers/b0">
+      <node ref="D57" pin="2"/>
+      <node ref="D33" pin="2"/>
+      <node ref="D25" pin="2"/>
+      <node ref="D49" pin="2"/>
+      <node ref="IC2" pin="9"/>
+      <node ref="D9" pin="2"/>
+      <node ref="D41" pin="2"/>
+      <node ref="D17" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="110" name="/Shift Registers/b1">
+      <node ref="D10" pin="2"/>
+      <node ref="D50" pin="2"/>
+      <node ref="D42" pin="2"/>
+      <node ref="D58" pin="2"/>
+      <node ref="D18" pin="2"/>
+      <node ref="D34" pin="2"/>
+      <node ref="D26" pin="2"/>
+      <node ref="IC2" pin="10"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="111" name="/Shift Registers/b2">
+      <node ref="D3" pin="2"/>
+      <node ref="D35" pin="2"/>
+      <node ref="D19" pin="2"/>
+      <node ref="D43" pin="2"/>
+      <node ref="D11" pin="2"/>
+      <node ref="D27" pin="2"/>
+      <node ref="IC2" pin="11"/>
+      <node ref="D59" pin="2"/>
+      <node ref="D51" pin="2"/>
+    </net>
+    <net code="112" name="/Shift Registers/b3">
+      <node ref="D12" pin="2"/>
+      <node ref="D36" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="D20" pin="2"/>
+      <node ref="D52" pin="2"/>
+      <node ref="D60" pin="2"/>
+      <node ref="D44" pin="2"/>
+      <node ref="D28" pin="2"/>
+      <node ref="IC2" pin="12"/>
+    </net>
+    <net code="113" name="/Shift Registers/b4">
+      <node ref="D53" pin="2"/>
+      <node ref="D21" pin="2"/>
+      <node ref="D13" pin="2"/>
+      <node ref="D29" pin="2"/>
+      <node ref="D37" pin="2"/>
+      <node ref="D45" pin="2"/>
+      <node ref="IC3" pin="13"/>
+      <node ref="D5" pin="2"/>
+      <node ref="D61" pin="2"/>
+    </net>
+    <net code="114" name="/Shift Registers/b6">
+      <node ref="D31" pin="2"/>
+      <node ref="D47" pin="2"/>
+      <node ref="D63" pin="2"/>
+      <node ref="D23" pin="2"/>
+      <node ref="D55" pin="2"/>
+      <node ref="D7" pin="2"/>
+      <node ref="IC3" pin="11"/>
+      <node ref="D15" pin="2"/>
+      <node ref="D39" pin="2"/>
+    </net>
+    <net code="115" name="/Shift Registers/b7">
+      <node ref="D64" pin="2"/>
+      <node ref="D32" pin="2"/>
+      <node ref="D56" pin="2"/>
+      <node ref="D16" pin="2"/>
+      <node ref="D40" pin="2"/>
+      <node ref="D8" pin="2"/>
+      <node ref="IC3" pin="12"/>
+      <node ref="D24" pin="2"/>
+      <node ref="D48" pin="2"/>
+    </net>
+    <net code="116" name="/Shift Registers/c0">
+      <node ref="D9" pin="3"/>
+      <node ref="D57" pin="3"/>
+      <node ref="D25" pin="3"/>
+      <node ref="D33" pin="3"/>
+      <node ref="D49" pin="3"/>
+      <node ref="D17" pin="3"/>
+      <node ref="IC2" pin="14"/>
+      <node ref="D1" pin="3"/>
+      <node ref="D41" pin="3"/>
+    </net>
+    <net code="117" name="/Shift Registers/c1">
+      <node ref="D26" pin="3"/>
+      <node ref="D18" pin="3"/>
+      <node ref="D42" pin="3"/>
+      <node ref="D34" pin="3"/>
+      <node ref="D2" pin="3"/>
+      <node ref="D58" pin="3"/>
+      <node ref="IC2" pin="13"/>
+      <node ref="D50" pin="3"/>
+      <node ref="D10" pin="3"/>
+    </net>
+    <net code="118" name="/Shift Registers/c2">
+      <node ref="D35" pin="3"/>
+      <node ref="D3" pin="3"/>
+      <node ref="D51" pin="3"/>
+      <node ref="IC2" pin="7"/>
+      <node ref="D11" pin="3"/>
+      <node ref="D59" pin="3"/>
+      <node ref="D27" pin="3"/>
+      <node ref="D43" pin="3"/>
+      <node ref="D19" pin="3"/>
+    </net>
+    <net code="119" name="/Shift Registers/c3">
+      <node ref="D28" pin="3"/>
+      <node ref="D36" pin="3"/>
+      <node ref="D4" pin="3"/>
+      <node ref="D12" pin="3"/>
+      <node ref="D60" pin="3"/>
+      <node ref="D44" pin="3"/>
+      <node ref="IC2" pin="8"/>
+      <node ref="D20" pin="3"/>
+      <node ref="D52" pin="3"/>
+    </net>
+    <net code="120" name="/Shift Registers/c4">
+      <node ref="IC3" pin="15"/>
+      <node ref="D61" pin="3"/>
+      <node ref="D13" pin="3"/>
+      <node ref="D45" pin="3"/>
+      <node ref="D53" pin="3"/>
+      <node ref="D29" pin="3"/>
+      <node ref="D21" pin="3"/>
+      <node ref="D5" pin="3"/>
+      <node ref="D37" pin="3"/>
+    </net>
+    <net code="121" name="/Shift Registers/c5">
+      <node ref="D38" pin="3"/>
+      <node ref="D30" pin="3"/>
+      <node ref="D46" pin="3"/>
+      <node ref="D22" pin="3"/>
+      <node ref="D14" pin="3"/>
+      <node ref="IC3" pin="6"/>
+      <node ref="D54" pin="3"/>
+      <node ref="D6" pin="3"/>
+      <node ref="D62" pin="3"/>
+    </net>
+    <net code="122" name="/Shift Registers/c6">
+      <node ref="D31" pin="3"/>
+      <node ref="D47" pin="3"/>
+      <node ref="D23" pin="3"/>
+      <node ref="D55" pin="3"/>
+      <node ref="D7" pin="3"/>
+      <node ref="IC3" pin="7"/>
+      <node ref="D39" pin="3"/>
+      <node ref="D63" pin="3"/>
+      <node ref="D15" pin="3"/>
+    </net>
+    <net code="123" name="/Shift Registers/c7">
+      <node ref="D48" pin="3"/>
+      <node ref="D16" pin="3"/>
+      <node ref="D40" pin="3"/>
+      <node ref="D64" pin="3"/>
+      <node ref="D32" pin="3"/>
+      <node ref="D8" pin="3"/>
+      <node ref="D56" pin="3"/>
+      <node ref="IC3" pin="8"/>
+      <node ref="D24" pin="3"/>
+    </net>
+  </nets>
+</export>

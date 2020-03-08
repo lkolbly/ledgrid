@@ -1,0 +1,17 @@
+To hit 60 frames per second...
+We must cycle through 8 columns at 60fps, 480 columns/s
+Must update each column 256 times, 122,880 column updates/s
+Each column update requires shifitng out 12 bits of data to two shift registers, 1,474,560 bits/s
+
+
+Female receptacle is 8.5mm long, with 4.04mm from base of receptacle to edge of far wire, or 3.53mm to center of wire.
+Male pin is 6mm long, with 2.5mm deep base, 1.2mm to edge of first wire (1.71mm to center)
+Thus, the far wires end up (8.5+3.53)+(2.5+1.71)=16.24mm apart.
+The furthest apart the boards can be mounted with a 2mm border is a 16.24mm-2*(2mm+2.54mm)=7.16mm gap.
+- To maintain spacing of 13.05mm, jumpers should have their wire 1.59mm "inward" of the LED centerpoint
+- To maintain spacing of 13.45mm, jumpers should be 1.39mm "inward"
+
+
+For LEDs with a 6mmx6mm footprint (5x5 rounded up). Fitting 8 from edge to edge gives a spacing of (100mm-8*6mm)/8=6.5mm, or 12.5mm center-to-center.
+With a 7.3mmx5.5mm LED spaced 13mm center-to-center, the board needs to be 7.3*8+(13-7.3)*7=98.3mm on the long side
+  and 5.5*8+(13-5.5)*7=96.5mm on the short side.

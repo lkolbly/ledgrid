@@ -1,0 +1,24 @@
+Reference, Quantity, Value, Footprint, Datasheet, Description, Height, Manufacturer_Name, Manufacturer_Part_Number, Mouser Part Number, Mouser Price/Stock
+C1 C2 ,2,4.7u,Capacitor_SMD:C_0805_2012Metric,~,,,,,791-0805X475M250CT ,
+C5 C3 C4 ,3,4.7uF,Capacitor_SMD:C_0805_2012Metric,~,,,,,791-0805X475M250CT ,
+D8 D7 D6 D5 D4 D3 D2 D1 D16 D15 D14 D13 D12 D11 D10 D9 D24 D23 D22 D21 D20 D19 D18 D17 D32 D31 D30 D29 D28 D27 D26 D25 D40 D39 D38 D37 D36 D35 D34 D33 D48 D47 D46 D45 D44 D43 D42 D41 D56 D55 D54 D53 D52 D51 D50 D49 D64 D63 D62 D61 D60 D59 D58 D57 ,64,LED_RGB,LED_SMD:LED_RGB_5050-6,~,,,,,,
+IC1 ,1,LPC804M101JDH24J,SamacSys_Parts:SOP65P640X110-24N,https://ms.componentsearchengine.com/Datasheets/1/LPC804M101JDH24J.pdf,"ARM Microcontrollers - MCU Cortex-M0 32KB 4KB 2 I2c, SPI, 21 GPIO",1.1,Nexperia,LPC804M101JDH24J,,
+IC2 IC3 ,2,TC62D748CFNAG(CEBH,SamacSys_Parts:SOP64P600X175-24N,https://componentsearchengine.com/Datasheets/1/TC62D748CFNAG(CEBH.pdf,LED Lighting Drivers 16-output constant current LED Drvr 17V,1.75,Toshiba,TC62D748CFNAG(CEBH,757-TC62D748CFNAGCEB,https://www.mouser.com/Search/Refine.aspx?Keyword=757-TC62D748CFNAGCEB
+IC4 ,1,NJM2866F33-TE1,SamacSys_Parts:SOT95P280X130-5N,https://componentsearchengine.com/Datasheets/1/NJM2866F33-TE1.pdf,LDO Voltage Regulators Low Dropout Volt Regulator,1.3,NJR,NJM2866F33-TE1,513-NJM2866F33-TE1,https://www.mouser.com/Search/Refine.aspx?Keyword=513-NJM2866F33-TE1
+J1 J4 J2 J6 ,4,PWR_I2C,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal,~,,,,,,
+J5 J8 J3 J7 ,4,PWR_BULK,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal,~,,,,,,
+JP10 ,1,I2C1,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,~,,,,,,
+JP11 ,1,I2C0,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,~,,,,,,
+JP9 ,1,I2C2,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,~,,,,,,
+Q1 Q3 Q5 Q7 Q9 Q11 Q13 Q15 ,8,MMSS8550-L-TP,SamacSys_Parts:SOT96P237X122-3N,https://componentsearchengine.com/Datasheets/1/MMSS8550-L-TP.pdf,PNP Silicon Plastic-Encapsulate Transistor,1.22,Micro Commercial Components (MCC),MMSS8550-L-TP,833-MMSS8550-L-TP,https://www.mouser.com/Search/Refine.aspx?Keyword=833-MMSS8550-L-TP
+Q2 Q4 Q6 Q8 Q10 Q12 Q14 Q16 ,8,BC850,Package_TO_SOT_SMD:SOT-23,http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657,,,,,,
+R17 R18 ,2,TC33X-2-103E,SamacSys_Parts:TC33X-2_1,https://componentsearchengine.com/Datasheets/1/TC33X-2-103E.pdf,"Cermet 3mm SMT trimmer,0.1W 10k Bourns TC33 Series SMD Cermet Trimmer Resistor with Solder Pad Terminations, 10k?? ??25% 1/10W ??250ppm/??C Top Adjust",,Bourns,TC33X-2-103E,652-TC33X-2-103E,https://www.mouser.com/Search/Refine.aspx?Keyword=652-TC33X-2-103E
+R21 R20 R19 R2 R1 R4 R3 R6 R5 R8 R7 R10 R9 R12 R11 R14 R13 R16 R15 ,19,1K,Resistor_SMD:R_0805_2012Metric,~,,,,,71-CRCW08051K00JNEAC ,
+TP1 ,1,ISP TX,TestPoint:TestPoint_Pad_D1.0mm,~,,,,,,
+TP2 ,1,ISP_EN,TestPoint:TestPoint_Pad_D1.0mm,~,,,,,,
+TP3 ,1,SWCLK,TestPoint:TestPoint_Pad_D1.0mm,~,,,,,,
+TP4 ,1,SWDIO,TestPoint:TestPoint_Pad_D1.0mm,~,,,,,,
+TP5 ,1,ISP RX,TestPoint:TestPoint_Pad_D1.0mm,~,,,,,,
+TP6 ,1,RESET,TestPoint:TestPoint_Pad_D1.0mm,~,,,,,,
+TP7 ,1,3.3V,TestPoint:TestPoint_Pad_D1.0mm,~,,,,,,
+TP8 ,1,GND,TestPoint:TestPoint_Pad_D1.0mm,~,,,,,,
